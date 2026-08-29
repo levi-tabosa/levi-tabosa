@@ -2,6 +2,9 @@
 # Estou sempre buscando novos desafios e oportunidades para aprender e crescer como desenvolvedor.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabosa-levi/)
 
+[![Discord](https://img.shields.io/discord/https://img.shields.io/discord/308323056592486420)](https://discordapp.com/users/968346056888832030)
+
+
 ## Tecnologias que domino!
 
 <div style="display: inline_block">
